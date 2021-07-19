@@ -6,6 +6,7 @@ namespace actividad_01
     {
       public string foo { get; set; }
       public string bar { get; set; }
+      public string lorem { get; set; }
 
      
     }
